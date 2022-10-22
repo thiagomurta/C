@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "xiosbase": "cpp",
+        "new": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "memory": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "variant": "cpp",
+        "cmath": "cpp"
+    },
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "C_Cpp.errorSquiggles": "Enabled",
+    "problems.showCurrentInStatus": true
+}
